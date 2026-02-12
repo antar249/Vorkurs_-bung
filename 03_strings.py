@@ -1,0 +1,1 @@
+print(f"{a} {b} {c}") # f-Strings erlauben das Einfügen von Variablen in Strings ohne Verkettung mit +
